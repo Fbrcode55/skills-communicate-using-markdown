@@ -1,7 +1,7 @@
-# testing words
-## testing words
-### testing words
-#### testing words
-##### testing words
-###### testing words
+# Yakto
+## Yakto
+### Yakto 
+#### Yakto
+##### Yakto
+###### Yakto
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
