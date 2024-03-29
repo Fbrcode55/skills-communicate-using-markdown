@@ -1,8 +1,3 @@
-
-# 
-# #
-# # #
-
 # Yakto
 ## Yakto
 ### Yakto 
